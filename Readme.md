@@ -61,7 +61,7 @@ Comparision between the Human summary and GPT summary.
 
 
 
-Referred dataset >>>>>[https://huggingface.co/docs/transformers/en/tasks/summarization]
+[Referred dataset >>>>>](https://huggingface.co/docs/transformers/en/tasks/summarization)
 
 Generating the summaries from the dataset text feeding to the LLM and getting the response as per the 
 
