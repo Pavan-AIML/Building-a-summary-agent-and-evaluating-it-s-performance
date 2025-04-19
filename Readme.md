@@ -35,7 +35,7 @@ Here we will calculate the average accuracy and check weather model is performin
 
 <h4> Overview of this method here we have four distinct criteria to evaluate the output of the agent </h4>
 
-<img src="evaluetor's_performance.png" alt="Alt text" width="300" height="200">
+![Image](https://github.com/user-attachments/assets/48078c6d-a6ff-4d41-9117-6a80fd3f2bbc)
 
 - Relevance (1-5): As summry should be consice and precise hence relevance will check if the summary is relevant to the input prompt and should not include redundancies. 
 
