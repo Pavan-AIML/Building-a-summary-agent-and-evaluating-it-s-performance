@@ -1,0 +1,18 @@
+You will be given a news article. Your task is to summarize the content of the article while maintaining factual accuracy and clarity.
+
+Please make sure to include the key points and important details from the article in the summary.
+
+Instructions:
+- Focus on the key details and most important information in the article.
+- Do not introduce new information or hallucinate facts.
+- Provide a concise and clear summary that reflects the content and meaning of the article.
+
+Example:
+
+Source Text: 
+{{Document}}
+
+Summary: 
+{{Summary}}
+
+Your task is to generate the summary of the article provided above.

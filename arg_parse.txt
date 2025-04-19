@@ -1,0 +1,41 @@
+
+We use argparse for building userfriendly commandline interface.
+
+
+Here with the help pf argparser we pass the argument in the order.
+The order of the argument are important and can be checked by the help command.
+Run the fle in the terminal ====>>>>> python arg_parse.py --help
+Get to know the order of the argument.
+
+
+>> Positional arguments are mandatory and optional arguments are not mandatory.
+
+#####------------------ Define Positional arguments -----------------------#####
+
+parser = argparser.Argumentparser()
+
+parser.add_argument("name", help="Enter your name")
+parser.add_argument("age", help="Enter your age")
+parser.add_argument("salary", help="Enter your salary")
+
+
+
+###### -------------- Define optional arguments ----------------------- ######
+
+parser.add_argument("--name", help="Enter your name")
+parser.add_argument("--age", help="Enter your age")
+parser.add_argument("--salary", help="Enter your salary")
+
+
+While providing the optional arguments we also need to provide the name of the argument.
+For example: python arg_parse.py --name "Rahul" --age 25 --salary 25000
+While providing the positional arguments we do not need to provide the name of the argument.
+For example: python arg_parse.py "Rahul" 25 25000
+
+
+###### -------------- Define optional arguments with default values --------- ######
+
+parser.add_argument("--name", help="Enter your name", default="Rahul")
+parser.add_argument("--age", help="Enter your age", default=25)
+parser.add_argument("--salary", help="Enter your salary", default=25000)
+
