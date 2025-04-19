@@ -102,4 +102,4 @@ by using the available dash boards such as  [scale dahs-boards](https://scale.co
 > This technique is used to fine-tune the model with less computational power.
 > This I tried doing but the my PC does not have that much capacity to do it. 
 
-> Your input is highly appreciated. 
+<h3> Your input is highly appreciated. </h3> 
