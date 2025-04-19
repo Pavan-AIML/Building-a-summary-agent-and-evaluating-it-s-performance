@@ -95,9 +95,9 @@ by using the available dash boards such as  [scale dahs-boards](https://scale.co
 <h3> Fine-tuning the model to improve accuracy </h3>
 
 
-- To improve the model's accuracy we can fine-tune the model with QLORA technique. 
-- I have done done the fine tuning of the model in the file name Finetuning_the_model_LoRA.ipynb.
-- This technique is used to fine-tune the model with less computational power.
-- This I tried doing but the my PC does not have that much capacity to do it. 
+> To improve the model's accuracy we can fine-tune the model with QLORA technique. 
+> I have done done the fine tuning of the model in the file name Finetuning_the_model_LoRA.ipynb.
+> This technique is used to fine-tune the model with less computational power.
+> This I tried doing but the my PC does not have that much capacity to do it. 
 
-- Your input is highly appreciated. 
+> Your input is highly appreciated. 
