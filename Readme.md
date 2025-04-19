@@ -75,7 +75,7 @@ And after this calculating the average score of the model if the evaluator is ev
 
 <h3> Model selection on the task specific </h3
 
-by using the available dash boards such as acale sceal dahs-boards[https://scale.com/leaderboards] we can select the model which is best suited for the task.
+by using the available dash boards such as  [scale dahs-boards](https://scale.com/leaderboards) we can select the model which is best suited for the task.
 
 
 <h3> Data </h3>
