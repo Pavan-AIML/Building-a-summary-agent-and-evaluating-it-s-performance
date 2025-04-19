@@ -30,6 +30,7 @@ Here we will calculate the average accuracy and check weather model is performin
 3> Scoring a function that calls LLM and calculates the probabilities of the return tokens. 
 
 <h2> SOTA Technique followed research paper </h2>
+
 [Research paper](https://arxiv.org/pdf/2303.16634) published by chat-gpt 
 
 
@@ -39,7 +40,7 @@ Here we will calculate the average accuracy and check weather model is performin
 
 <h4> Overview of this method here we have four distinct criteria to evaluate the output of the agent </h4>
 
-![Image](https://github.com/user-attachments/assets/73974880-0b6d-475d-aaa9-bffac102769d)
+![Image](https://github.com/user-attachments/assets/c0532177-e9b5-4846-acf0-019179bf40af)
 
 - Relevance (1-5): As summry should be consice and precise hence relevance will check if the summary is relevant to the input prompt and should not include redundancies. 
 
